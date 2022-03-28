@@ -50,6 +50,5 @@ Date        Team 1    		Team 2
   - JVM running on your local machine
   
 ### Running
-	- go to jar location 
 java -jar soccer-league-application-0.0.1-SNAPSHOT.jar 05-03-2022 soccer_teams.json
 
